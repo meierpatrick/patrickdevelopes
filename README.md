@@ -1,4 +1,4 @@
-## Hi there, I'm Patrick - aka (CryptoPat)
+## Hi there, I'm Patrick - aka (CryptoPat) / (PatrickDevelopes)
 
 ### I'm a developer, traveller and free spirit!
 
