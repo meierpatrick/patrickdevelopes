@@ -1,6 +1,6 @@
 ## Hi there, I'm Patrick
 
-### I'm a developer, traveller and free spirit!
+### I'm a blockchain software engineer, traveller and free spirit!
 
 - 🤖 I'm currently working on a personal german blockchain blog!
 - 🔮 I'm currently learning blockchain
