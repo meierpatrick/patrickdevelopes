@@ -25,7 +25,7 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 
 ● Graphic softwares: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, Blender
 
-● Favorite Libraries: Gsap, Three.js, Styled-components, Algolia, Web3
+● Favorite Libraries: Gsap, Three.js, Algolia, Web3
 
 Happy to discuss projects, ideas, and things we can arrange together to assure your success. Feel free to message me with any questions.
 
