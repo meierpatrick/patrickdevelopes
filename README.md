@@ -23,7 +23,7 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 
 ● Hosting: GitHub, Gitlab, BitBucket, Netlify
 
-● Graphic softwares: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, Blender
+● Graphic softwares: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma
 
 ● Favorite Libraries: Gsap, Three.js, Algolia, Web3
 
