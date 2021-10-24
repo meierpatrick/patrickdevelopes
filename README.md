@@ -7,7 +7,7 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 
 ✨MY WEB STACK ✨
 
-● Markup Languages: HTML, Markdown, DokuWiki, MoinMoin, reStructuredText
+● Markup Languages: HTML, Markdown, DokuWiki, reStructuredText
 
 ● Programming Languages: C, Python, Javascript, Solidity
 
