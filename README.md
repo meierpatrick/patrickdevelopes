@@ -17,7 +17,7 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 
 ● Frameworks: React, Gatsby, Next.js, Vue.js
 
-● Style sheet languages: CSS, Sass, Less, PostCSS
+● Style sheet languages: CSS, Sass, Less
 
 ● Jamstack: Prismic, Contentful, Shopify, Wordpress, KenticoCMS, ButterCMS
 
