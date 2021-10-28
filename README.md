@@ -19,7 +19,7 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 
 ● Style sheet languages: CSS, Sass, Less
 
-● Jamstack: Prismic, Contentful, Shopify, Wordpress, KenticoCMS, ButterCMS
+● Jamstack: Prismic, Contentful, Shopify, Wordpress, ButterCMS
 
 ● Hosting: GitHub, Gitlab, BitBucket, Netlify
 
