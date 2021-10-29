@@ -5,7 +5,7 @@
 
 After I graduated from the Hamburger Fern-Hochschule in Germany, I started my career as a web developer. During this time, I dove deeper into HTML, CSS and Javascript. By 2016, I followed my passion and trained to be a full-time web developer. There's nothing better for me than create solutions to achieve the desired outcomes.
 
-✨MY WEB STACK ✨
+MY WEB STACK:
 
 ● Markup Languages: HTML, Markdown, DokuWiki, reStructuredText
 
