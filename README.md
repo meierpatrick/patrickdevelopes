@@ -23,7 +23,7 @@ MY WEB STACK:
 
 ● Hosting: GitHub, Gitlab, BitBucket, Netlify
 
-● Graphic softwares: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma
+● Graphic softwares: Photoshop, Illustrator, Adobe XD, Figma
 
 ● Favorite Libraries: Gsap, Three.js, Algolia, Web3
 
