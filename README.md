@@ -19,7 +19,7 @@ MY WEB STACK:
 
 ● Style sheet languages: CSS, Sass, Less
 
-● Jamstack: Prismic, Contentful, Shopify, Wordpress, ButterCMS
+● Jamstack: Prismic, Contentful, ButterCMS
 
 ● Hosting: GitHub, Gitlab, BitBucket, Netlify
 
