@@ -21,7 +21,7 @@ MY WEB STACK:
 
 ● Jamstack: Prismic, Contentful, ButterCMS
 
-● Hosting: GitHub, Gitlab, BitBucket, Netlify
+● Hosting: GitHub, Gitlab, BitBucket, Netlify and more
 
 ● Graphic softwares: Photoshop, Illustrator, Adobe XD, Figma
 
