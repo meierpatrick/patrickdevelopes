@@ -25,7 +25,7 @@ MY WEB STACK:
 
 ● Graphic softwares: Photoshop, Illustrator, Adobe XD, Figma and more
 
-● Favorite Libraries: Gsap, Three.js, Algolia, Web3
+● Favorite Libraries: Gsap, Three.js, Algolia, Web3 and bunch more
 
 Happy to discuss projects, ideas, and things we can arrange together to assure your success. Feel free to message me with any questions.
 
