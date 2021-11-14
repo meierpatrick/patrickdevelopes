@@ -9,7 +9,7 @@ MY WEB STACK:
 
 ● Markup Languages: HTML, Markdown, DokuWiki, reStructuredText
 
-● Programming Languages: C, Python, Javascript, Solidity
+● Programming Languages: C, Python, Javascript, Solidity, Rust
 
 ● Back-end: Node.js, Express.js and more
 
