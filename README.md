@@ -19,13 +19,13 @@ MY WEB STACK:
 
 ● Style sheet languages: CSS, Sass, Less
 
-● Jamstack: Prismic, Contentful, ButterCMS and more
+● Jamstack: Prismic, Contentful, ButterCMS
 
-● Hosting: GitHub, Gitlab, BitBucket, Netlify and more
+● Hosting: GitHub, Gitlab, BitBucket, Netlify
 
 ● Graphic softwares: Photoshop, Illustrator, Adobe XD, Figma
 
-● Favorite Libraries: Gsap, Three.js, Algolia, Web3 and more
+● Favorite Libraries: Gsap, Three.js, Algolia, Web3
 
 Happy to discuss projects, ideas, and things we can arrange together to assure your success. Feel free to message me with any questions.
 
