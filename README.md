@@ -11,7 +11,7 @@ MY WEB STACK:
 
 ● Programming Languages: C, Python, Javascript, Solidity, Rust
 
-● Back-end: Node.js, Express.js and more
+● Back-end: Node.js, Express.js
 
 ● Databases: MySQL, SQLite, MongoDB
 
@@ -25,7 +25,7 @@ MY WEB STACK:
 
 ● Graphic softwares: Photoshop, Illustrator, Adobe XD, Figma
 
-● Favorite Libraries: Gsap, Three.js, Algolia, Web3 and more
+● Favorite Libraries: Gsap, Three.js, Algolia, Web3
 
 Happy to discuss projects, ideas, and things we can arrange together to assure your success. Feel free to message me with any questions.
 
