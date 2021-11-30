@@ -11,7 +11,7 @@ MY WEB STACK:
 
 ● Programming Languages: C, Python, Javascript, Solidity, Rust
 
-● Back-end: Node.js, Express.js and more
+● Back-end: Node.js, Express.js
 
 ● Databases: MySQL, SQLite, MongoDB
 
