@@ -1,7 +1,6 @@
 ![I am Blockchain Software Engineer](https://pbs.twimg.com/profile_banners/1424648016338751488/1634749813/1500x500)
 
 ## Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, my name is Patrick
-#### I am Blockchain Software Engineer
 
 After I graduated from the Hamburger Fern-Hochschule in Germany, I started my career as a web developer. During this time, I dove deeper into HTML, CSS and Javascript. By 2016, I followed my passion and trained to be a full-time web developer. There's nothing better for me than create solutions to achieve the desired outcomes.
 
