@@ -20,11 +20,11 @@ Happy to discuss projects, ideas, and things we can arrange together to assure y
 <a href= https://github.com/?tab=repositories&q=&type=&language=angularjs&sort= > <img  src ='https://img.shields.io/badge/Code%09-Gatsby-green/?style=flat&logo=gatsby&logoColor=white&color=2bbc8a'> </a>
 
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/patrickdevelopes/patrickdevelopes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdevelopes&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdevelopes&hide=java,html,tex&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=2bbc8a&langs_count=3" />
 </a>
 <a href="https://github.com/patrickdevelopes/patrickdevelopes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickdevelopes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Patrick's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickdevelopes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=5a5a5a" alt="Patrick's GitHub Stats" />
 </a>
