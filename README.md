@@ -4,11 +4,6 @@
 
 After I graduated from the Hamburger Fern-Hochschule in Germany, I started my career as a web developer. During this time, I dove deeper into HTML, CSS and Javascript. By 2016, I followed my passion and trained to be a full-time web developer. There's nothing better for me than create solutions to achieve the desired outcomes.
 
-Happy to discuss projects, ideas, and things we can arrange together to assure your success. Feel free to message me with any questions.
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/patrickdevelopes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/patrick-meier-4b8961162/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Patrick39513834)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14157298)
-
-
 <h2> My Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img src ='https://img.shields.io/badge/Code%09-Javascript-green/?style=flat&logo=javascript&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=typescript&sort= > <img src ='https://img.shields.io/badge/Code%09-Typescript-green/?style=flat&logo=typescript&logoColor=white&color=2bbc8a'> </a>
