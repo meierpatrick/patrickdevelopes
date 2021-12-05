@@ -17,10 +17,8 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 
 <h2> My Blockchain Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=rust&sort= > <img  src ='https://img.shields.io/badge/Code%09-Rust-green/?style=flat&logo=rust&logoColor=white&color=2bbc8a'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=substrate&sort= > <img src ='https://img.shields.io/badge/Code%09-Substrate-green/?style=flat&logo=paritysubstrate&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=pythonsort= > <img src ='https://img.shields.io/badge/Code%09-Solidity-green/?style=flat&logo=solidity&logoColor=white&color=2bbc8a'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=gatsby&sort= > <img src ='https://img.shields.io/badge/Code%09-GraphQL-green/?style=flat&logo=graphql&logoColor=white&color=2bbc8a'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=express&sort= > <img src ='https://img.shields.io/badge/Code%09-React-green/?style=flat&logo=react&logoColor=white&color=2bbc8a'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=angularjs&sort= > <img  src ='https://img.shields.io/badge/Code%09-Gatsby-green/?style=flat&logo=gatsby&logoColor=white&color=2bbc8a'> </a>
 
 
 ## GitHub Stats &#x1f4c8;
