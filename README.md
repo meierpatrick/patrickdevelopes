@@ -11,13 +11,13 @@ Happy to discuss projects, ideas, and things we can arrange together to assure y
 
 
 <h2> My Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img src ='https://img.shields.io/badge/Code%09-Javascript-green/?style=flat&logo=javascript'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=typescript&sort= > <img src ='https://img.shields.io/badge/Code%09-Typescript-green/?style=flat&logo=typescript'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=rust&sort= > <img  src ='https://img.shields.io/badge/Code%09-Rust-green/?style=flat&logo=rust'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=pythonsort= > <img src ='https://img.shields.io/badge/Code%09-Python-green/?style=flat&logo=python'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=gatsby&sort= > <img src ='https://img.shields.io/badge/Code%09-GraphQL-green/?style=flat&logo=graphql'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=express&sort= > <img src ='https://img.shields.io/badge/Code%09-React-green/?style=flat&logo=react'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=angularjs&sort= > <img  src ='https://img.shields.io/badge/Code%09-Gatsby-green/?style=flat&logo=gatsby'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img src ='https://img.shields.io/badge/Code%09-Javascript-green/?style=flat&logo=javascript&logoColor=white&color=2bbc8a'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=typescript&sort= > <img src ='https://img.shields.io/badge/Code%09-Typescript-green/?style=flat&logo=typescript&logoColor=white&color=2bbc8a'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=rust&sort= > <img  src ='https://img.shields.io/badge/Code%09-Rust-green/?style=flat&logo=rust&logoColor=white&color=2bbc8a'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=pythonsort= > <img src ='https://img.shields.io/badge/Code%09-Python-green/?style=flat&logo=python&logoColor=white&color=2bbc8a'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=gatsby&sort= > <img src ='https://img.shields.io/badge/Code%09-GraphQL-green/?style=flat&logo=graphql&logoColor=white&color=2bbc8a'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=express&sort= > <img src ='https://img.shields.io/badge/Code%09-React-green/?style=flat&logo=react&logoColor=white&color=2bbc8a'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=angularjs&sort= > <img  src ='https://img.shields.io/badge/Code%09-Gatsby-green/?style=flat&logo=gatsby&logoColor=white&color=2bbc8a'> </a>
 
 
 ## &#x1f4c8; GitHub Stats
