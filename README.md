@@ -17,6 +17,7 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 <a href= https://github.com/?tab=repositories&q=&type=&language=css3&sort= > <img  src ='https://img.shields.io/badge/Style%09-CSS3-green/?style=flat&logo=css3&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=sass&sort= > <img  src ='https://img.shields.io/badge/Style%09-Sass-green/?style=flat&logo=Sass&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=tailwindcss&sort= > <img  src ='https://img.shields.io/badge/Style%09-Tailwind-green/?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=styledcomponents&sort= > <img  src ='https://img.shields.io/badge/Style%09-Styled Components-green/?style=flat&logo=stylecomponents&logoColor=white&color=2bbc8a'> </a>
 
 <h2> My Blockchain Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=rust&sort= > <img  src ='https://img.shields.io/badge/Code%09-Rust-green/?style=flat&logo=rust&logoColor=white&color=2bbc8a'> </a>
