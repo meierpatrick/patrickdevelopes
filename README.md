@@ -8,8 +8,6 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 <a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img src ='https://img.shields.io/badge/Code%09-Javascript-green/?style=flat&logo=javascript&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=typescript&sort= > <img src ='https://img.shields.io/badge/Code%09-Typescript-green/?style=flat&logo=typescript&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=nodejs&sort= > <img  src ='https://img.shields.io/badge/Code%09-NodeJS-green/?style=flat&logo=node.js&logoColor=white&color=2bbc8a'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=rust&sort= > <img  src ='https://img.shields.io/badge/Code%09-Rust-green/?style=flat&logo=rust&logoColor=white&color=2bbc8a'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=pythonsort= > <img src ='https://img.shields.io/badge/Code%09-Python-green/?style=flat&logo=python&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=gatsby&sort= > <img src ='https://img.shields.io/badge/Code%09-GraphQL-green/?style=flat&logo=graphql&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=express&sort= > <img src ='https://img.shields.io/badge/Code%09-React-green/?style=flat&logo=react&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=angular&sort= > <img  src ='https://img.shields.io/badge/Code%09-Angular-green/?style=flat&logo=Angular&logoColor=white&color=2bbc8a'> </a>
