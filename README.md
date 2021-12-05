@@ -20,5 +20,5 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdevelopes&hide=java,html,tex&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=2bbc8a&langs_count=3" />
 </a>
 <a href="https://github.com/patrickdevelopes/patrickdevelopes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickdevelopes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=5a5a5a" alt="Patrick's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickdevelopes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=5a5a5a" alt="Patrick's GitHub Stats" />
 </a>
