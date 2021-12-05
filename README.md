@@ -10,6 +10,8 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 <a href= https://github.com/?tab=repositories&q=&type=&language=nodejs&sort= > <img  src ='https://img.shields.io/badge/Code%09-Node-green/?style=flat&logo=node.js&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=expressjs&sort= > <img  src ='https://img.shields.io/badge/Code%09-Express-green/?style=flat&logo=node.js&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=gatsby&sort= > <img src ='https://img.shields.io/badge/Code%09-GraphQL-green/?style=flat&logo=graphql&logoColor=white&color=2bbc8a'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=mysql&sort= > <img src ='https://img.shields.io/badge/Code%09-MySQL-green/?style=flat&logo=mysql&logoColor=white&color=2bbc8a'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=mongodb&sort= > <img src ='https://img.shields.io/badge/Code%09-Mongo DB-green/?style=flat&logo=mongodb&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=express&sort= > <img src ='https://img.shields.io/badge/Code%09-React-green/?style=flat&logo=react&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=angular&sort= > <img  src ='https://img.shields.io/badge/Code%09-Angular-green/?style=flat&logo=Angular&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=vuejs&sort= > <img  src ='https://img.shields.io/badge/Code%09-Vue-green/?style=flat&logo=vue.js&logoColor=white&color=2bbc8a'> </a>
