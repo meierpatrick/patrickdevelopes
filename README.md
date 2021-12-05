@@ -17,27 +17,6 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 <a href= https://github.com/?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=graphql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
 
-
-● Markup Languages: HTML, Markdown, DokuWiki, reStructuredText
-
-● Programming Languages: C, Python, Javascript, Solidity, Rust
-
-● Back-end: Node.js, Express.js
-
-● Databases: MySQL, SQLite, MongoDB
-
-● Frameworks: React, Gatsby, Next.js, Vue.js
-
-● Style sheet languages: CSS, Sass, Less
-
-● Jamstack: Prismic, Contentful, ButterCMS
-
-● Hosting: GitHub, Gitlab, BitBucket, Netlify
-
-● Graphic softwares: Photoshop, Illustrator, Adobe XD, Figma
-
-● Favorite Libraries: Gsap, Three.js, Algolia, Web3
-
 Happy to discuss projects, ideas, and things we can arrange together to assure your success. Feel free to message me with any questions.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/patrickdevelopes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/patrick-meier-4b8961162/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Patrick39513834)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14157298)
