@@ -26,7 +26,7 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 <a href= https://github.com/?tab=repositories&q=&type=&language=pythonsort= > <img src ='https://img.shields.io/badge/Code%09-Solidity-green/?style=flat&logo=solidity&logoColor=white&color=2bbc8a'> </a>
 
 
-## GitHub Stats &#x1f4c8;
+## My GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/patrickdevelopes/patrickdevelopes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdevelopes&hide=java,html,tex&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=2bbc8a&langs_count=3" />
