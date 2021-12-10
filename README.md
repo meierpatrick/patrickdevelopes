@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="./main.css" />
+<link href="main.css" rel="stylesheet"></link>
 
 ![I am Blockchain Software Engineer](https://pbs.twimg.com/profile_banners/1424648016338751488/1634749813/1500x500)
 
