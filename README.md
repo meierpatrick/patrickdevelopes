@@ -6,6 +6,8 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 
 <h2> My Work Experience <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
+### 2015-2016
+
 <h2> My Web & Programming Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img src ='https://img.shields.io/badge/Code%09-Javascript-green/?style=flat&logo=javascript&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=typescript&sort= > <img src ='https://img.shields.io/badge/Code%09-Typescript-green/?style=flat&logo=typescript&logoColor=white&color=2bbc8a'> </a>
