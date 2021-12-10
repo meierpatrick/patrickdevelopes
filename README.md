@@ -1,5 +1,3 @@
-<link href="./main.css" rel="stylesheet"></link>
-
 ![I am Blockchain Software Engineer](https://pbs.twimg.com/profile_banners/1424648016338751488/1634749813/1500x500)
 
 ## Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, my name is Patrick
