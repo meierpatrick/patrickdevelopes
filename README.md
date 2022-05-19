@@ -30,13 +30,9 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
           https://www.fiverr.com/dev_patrick
 
 
-# DApps and Smart Contracts Portfolio
+# Smart Contracts Portfolio
 
 Following are some of the recent DApps and links to the Ethereum Smart Contracts:
-
-https://alphas-token.netlify.app/
-
-https://jinduu.netlify.app/
 
 
 ## My GitHub Stats &#x1f4c8;
