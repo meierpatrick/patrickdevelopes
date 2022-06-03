@@ -1,8 +1,8 @@
-## Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, my name is Patrick
+## Hi there, my name is Patrick
 
 After I graduated from the Hamburger Fern-Hochschule in Germany, I started my career as a web developer. During this time, I dove deeper into HTML, CSS and Javascript. By 2016, I followed my passion and trained to be a full-time web developer. There's nothing better for me than create solutions to achieve the desired outcomes.
 
-<h2> My Web & Programming Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> My Web & Programming Stack</h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img src ='https://img.shields.io/badge/Code%09-Javascript-green/?style=flat&logo=javascript&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=typescript&sort= > <img src ='https://img.shields.io/badge/Code%09-Typescript-green/?style=flat&logo=typescript&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=nodejs&sort= > <img  src ='https://img.shields.io/badge/Code%09-Node-green/?style=flat&logo=node.js&logoColor=white&color=2bbc8a'> </a>
@@ -18,7 +18,7 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 <a href= https://github.com/?tab=repositories&q=&type=&language=sass&sort= > <img  src ='https://img.shields.io/badge/Style%09-Sass-green/?style=flat&logo=Sass&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=styledcomponents&sort= > <img  src ='https://img.shields.io/badge/Style%09-Syled Components-green/?style=flat&logo=styledcomponents&logoColor=white&color=2bbc8a'> </a>
 
-<h2> My Blockchain Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> My Blockchain Stack</h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=rust&sort= > <img  src ='https://img.shields.io/badge/Code%09-Rust-green/?style=flat&logo=rust&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=substrate&sort= > <img src ='https://img.shields.io/badge/Code%09-Substrate-green/?style=flat&logo=paritysubstrate&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=pythonsort= > <img src ='https://img.shields.io/badge/Code%09-Solidity-green/?style=flat&logo=solidity&logoColor=white&color=2bbc8a'> </a>
