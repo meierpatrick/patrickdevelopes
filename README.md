@@ -1,6 +1,6 @@
 ## Hi there, my name is Patrick
 
-After I graduated from the Hamburger Fern-Hochschule in Germany, I started my career as a web developer. During this time, I dove deeper into HTML, CSS and Javascript. By 2017, I followed my passion and trained to be a full-time web developer. There's nothing better for me than create solutions to achieve the desired outcomes.
+After I graduated from the Hamburger Fern-Hochschule in Germany, I started my career as a web developer. During this time, I dove deeper into HTML, CSS and Javascript. By 2016, I followed my passion and trained to be a full-time web developer. There's nothing better for me than create solutions to achieve the desired outcomes.
 
 <h2> My Web & Programming Stack</h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img src ='https://img.shields.io/badge/Code%09-Javascript-green/?style=flat&logo=javascript&logoColor=white&color=2bbc8a'> </a>
