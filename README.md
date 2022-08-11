@@ -26,8 +26,6 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 
 ## Upwork: 
           https://www.upwork.com/freelancers/~01bc52decd471aebd4
-## Fiverr: 
-          https://www.fiverr.com/dev_patrick
 
 
 # Smart Contracts Portfolio
