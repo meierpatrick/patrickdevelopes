@@ -28,11 +28,6 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
           https://www.upwork.com/freelancers/~01bc52decd471aebd4
 
 
-# Smart Contracts Portfolio
-
-Following are some of the recent DApps and links to the Ethereum Smart Contracts:
-
-
 ## My GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/patrickdevelopes/patrickdevelopes">
