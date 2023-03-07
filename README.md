@@ -23,6 +23,7 @@ After I graduated from the Hamburger Fern-Hochschule in Germany, I started my ca
 <a href= https://github.com/?tab=repositories&q=&type=&language=substrate&sort= > <img src ='https://img.shields.io/badge/Code%09-Substrate-green/?style=flat&logo=paritysubstrate&logoColor=white&color=2bbc8a'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=pythonsort= > <img src ='https://img.shields.io/badge/Code%09-Solidity-green/?style=flat&logo=solidity&logoColor=white&color=2bbc8a'> </a>
 
+https://bscscan.com/token/0xaF807641fCD86D85317E9948d5886b984Ba7e32F
 
 ## Upwork: 
           https://www.upwork.com/freelancers/~01bc52decd471aebd4
